@@ -5,4 +5,5 @@ This work was done as part of a class project at George Mason University in CS 5
 
 # References
 [1] Chen, Y., Bi, J., & Wang, J. Z. (2006). MILES: Multiple-instance learning via embedded instance selection. IEEE Transactions on Pattern Analysis and Machine Intelligence, 28(12), 1931-1947.
+
 [2] Qin, J., Li, Y., Cai, Z., Li, S., Zhu, J., Zhang, F., ... & Peng, Y. (2012). A metagenome-wide association study of gut microbiota in type 2 diabetes. Nature, 490(7418), 55-60.
