@@ -1,5 +1,5 @@
 # MILES: Multiple-Instance Learning via Embedded Instance Selection
-Python implementation of Multiple-Instance Learning via Embedded Instance Selection (MILES) [1] applied to data from a metagenome-wide association study of gut microbiota in type 2 diabetes [2].
+Python implementation of Multiple-Instance Learning via Embedded Instance Selection (MILES) [1] applied to data from a metagenome-wide association study of gut microbiota in type 2 diabetes [2]. This is not a finished project.
 
 This work was done as part of a class project at George Mason University in CS 584 under Professor Huzefa Rangwala. The goal of this project is to efficiently and effectively predict patient phenotype (disease), in this case type 2 diabetes (T2D), from intestinal microbiota of patients using MILES. We are motivated to do this since recent research suggests that factors outside of an organism's genome may contribute to the risk of developing type 2 diabetes. Primary contributors to this project are Kyle Jackson and Robert Truong.
 
